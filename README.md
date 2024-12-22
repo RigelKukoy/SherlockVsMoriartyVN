@@ -50,7 +50,7 @@ _A critical decision moment during combat_
 
 Created as a school project by:
 
-- [@Rigelkukoy]
+- [@Me](https://github.com/RigelKukoy)
 - [@keyceerhaye](https://github.com/keyceerhaye)
 
 ## Contributing
